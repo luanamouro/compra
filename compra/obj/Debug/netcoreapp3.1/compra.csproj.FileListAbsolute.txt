@@ -1,0 +1,14 @@
+C:\imersao_logica\compra\compra\bin\Debug\netcoreapp3.1\compra.exe
+C:\imersao_logica\compra\compra\bin\Debug\netcoreapp3.1\compra.deps.json
+C:\imersao_logica\compra\compra\bin\Debug\netcoreapp3.1\compra.runtimeconfig.json
+C:\imersao_logica\compra\compra\bin\Debug\netcoreapp3.1\compra.runtimeconfig.dev.json
+C:\imersao_logica\compra\compra\bin\Debug\netcoreapp3.1\compra.dll
+C:\imersao_logica\compra\compra\bin\Debug\netcoreapp3.1\compra.pdb
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.csproj.AssemblyReference.cache
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.AssemblyInfoInputs.cache
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.AssemblyInfo.cs
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.csproj.CoreCompileInputs.cache
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.dll
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.pdb
+C:\imersao_logica\compra\compra\obj\Debug\netcoreapp3.1\compra.genruntimeconfig.cache
